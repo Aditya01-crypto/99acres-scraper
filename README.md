@@ -200,7 +200,7 @@ Prestige Park    | ₹ 95 Lac-1.4 Cr | 2, 3 BHK         | Wakad, Pune
 ## 📁 Project Structure
 
 ```
-99acres-scraper/
+99acres-Real-Estate-Intelligence-Tool/
 │
 ├── main.py                          # Core scraper engine
 ├── RealEstateDataCleaner.py         # Data parser & Excel exporter
@@ -560,15 +560,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/99acres-scraper?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/99acres-scraper?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/99acres-scraper)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/99acres-Real-Estate-Intelligence-Tool?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/99acres-Real-Estate-Intelligence-Tool?style=social)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/99acres-Real-Estate-Intelligence-Tool)
 
 ---
 
 ## 👨‍💻 About the Developer
 
-**Automation Specialist | Python Developer**
+**Automation Specialist | Python Developer| Web Scraping Expert**
 
 This project demonstrates expertise in:
 - Advanced web scraping techniques
@@ -615,8 +615,8 @@ Specializing in:
 
 **Have questions? Found a bug? Need help?**
 
-- 🐛 [Report Issues](https://github.com/Aditya01-crypto/99acres-scraper/issues)
-- 💬 [Start a Discussion](https://github.com/Aditya01-crypto/99acres-scraper/discussions)
+- 🐛 [Report Issues](https://github.com/Aditya01-crypto/99acres-Real-Estate-Intelligence-Tool/issues)
+- 💬 [Start a Discussion](https://github.com/Aditya01-crypto/99acres-Real-Estate-Intelligence-Toolr/discussions)
 
 
 **Response time**: Usually within 24-48 hours
