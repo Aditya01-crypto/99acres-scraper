@@ -102,9 +102,9 @@ playwright install
 playwright>=1.40.0
 playwright-stealth>=1.0.6
 beautifulsoup4>=4.12.0
+lxml>=4.9.0
 pandas>=2.0.0
 openpyxl>=3.1.0
-lxml>=4.9.0
 ```
 
 ---
@@ -568,7 +568,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 About the Developer
 
-**Automation Specialist | Python Developer | Web Scraping Expert**
+**Automation Specialist | Python Developer**
 
 This project demonstrates expertise in:
 - Advanced web scraping techniques
@@ -587,10 +587,9 @@ This project demonstrates expertise in:
 
 Need custom scraping solutions or automation workflows?
 
-- 💼 **Portfolio**: [Your Portfolio Link]
-- 📧 **Email**: [your.email@example.com]
-- 💬 **LinkedIn**: [Your LinkedIn]
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)
+- 💼 **Portfolio**: [incoming]
+- 📧 **Email**: [connectwithaditya04@gmail.com]
+- 🐙 **GitHub**: [@Aditya01-crypto](https://github.com/@Aditya01-crypto)
 
 ---
 
@@ -616,9 +615,9 @@ Specializing in:
 
 **Have questions? Found a bug? Need help?**
 
-- 🐛 [Report Issues](https://github.com/yourusername/99acres-scraper/issues)
-- 💬 [Start a Discussion](https://github.com/yourusername/99acres-scraper/discussions)
-- 📧 Email: [your.email@example.com]
+- 🐛 [Report Issues](https://github.com/Aditya01-crypto/99acres-scraper/issues)
+- 💬 [Start a Discussion](https://github.com/Aditya01-crypto/99acres-scraper/discussions)
+
 
 **Response time**: Usually within 24-48 hours
 
