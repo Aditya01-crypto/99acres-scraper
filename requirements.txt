@@ -1,0 +1,25 @@
+# ============================================
+# 99acres Real Estate Scraper - Dependencies
+# ============================================
+# Python 3.8+ required
+
+# Core Web Scraping
+playwright>=1.40.0
+playwright-stealth>=1.0.6
+beautifulsoup4>=4.12.0
+
+# HTML Parsing
+lxml>=4.9.0
+
+# Data Processing & Export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optional: If you need numpy for data analysis
+# numpy>=1.24.0
+
+# ============================================
+# Installation Instructions:
+# 1. pip install -r requirements.txt
+# 2. playwright install
+# ============================================
