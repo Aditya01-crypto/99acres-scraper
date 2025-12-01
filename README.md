@@ -194,6 +194,30 @@ Building Name    | Full Price       | BHK              | Location
 Godrej Emerald   | ₹ 1.2-1.8 Cr    | 2, 3 BHK         | Kharadi, Pune
 Prestige Park    | ₹ 95 Lac-1.4 Cr | 2, 3 BHK         | Wakad, Pune
 ```
+---
+
+## Working of Scraper in GUI Mode
+
+![GUI Screenshot](https://github.com/Aditya01-crypto/99acres-scraper
+/OutputMediaFiles/ouput gui of working things.png*
+
+---
+
+## Terminal Output
+
+![Terminal Output](https://github.com/Aditya01-crypto/99acres-scraper
+/OutputMediaFiles/terminal ouput.jpg)
+*(replace with terminal output screenshot)*
+
+---
+
+## Excel Output (Scraped Data)
+
+Download Excel file:  
+👉 **[Click here to view Excel Output](https://github.com/Aditya01-crypto/99acres-scraper
+/OutputMediaFiles/ouput data.png)**
+
+---
 
 ---
 
